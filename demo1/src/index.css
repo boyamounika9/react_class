@@ -5,14 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(200, 172, 245);
-}
-h1{
-  color: brown;
-  font-size: 50px;
-  text-shadow: 8px 8px 10px black;
   
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

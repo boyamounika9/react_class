@@ -1,10 +1,17 @@
+import Container from "./componants/Container";
+import Home from "./componants/Home";
 
-import First from "./componants/First"
 
 function App() {
-  return (
-    <First/>
-  );
+  return( 
+  <>
+
+  <Container/>
+  <br></br>
+  <Home/>
+  </>
+   
+  )
 }
 
 export default App;
