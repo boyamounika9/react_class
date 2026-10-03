@@ -1,17 +1,8 @@
-import Cardsection from "./Componants/Cardsection";
-import Card from "./Componants/Card";
-// import Greet from "./Componants/Greet";
-function App() {
-  return (
+import Counter from "./Componants/Counter";
+function App(){
+  return(
     <>
-
-      {/* <Greet sname="mounika"/>
-   <Greet sname="mounika" sage={21}/> */}
-
-      <Cardsection />
-
-
-
+    <Counter/>
     </>
   )
 }
