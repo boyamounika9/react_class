@@ -1,12 +1,12 @@
-// import Bgcolor from "./Componants/Bgcolor";
-// import Counter from "./Componants/Counter";
-import Colors from "./Componants/Colors";
-function App(){
-  return(
+import Axiostask from "./Componants/Axiostask";
+import Shoppingapp from "./Componants/Shoppingapp";
+
+function App() {
+  return (
     <>
-    {/* <Counter/> */}
-    {/* <Bgcolor/> */}
-    <Colors/>
+
+    {/* <Axiostask/> */}
+    <Shoppingapp/>
     </>
   )
 }
